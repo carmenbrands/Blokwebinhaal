@@ -68,6 +68,34 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  
+  #### Screenreader
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Problemen:
+  1. Als de screenreader tussen linkjes skipt, leest hij de productinformatie voor zowel op de afbeelding als het tekstje daaronder (dubbele informatie).
+  2. Als de gebruiker een item in zijn winkelwagen doet, krijgt hij geen audio-feedback dat dit gelukt is.
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  1. Een aria-label toevoegen bij de linkjes (a-tags) van producten die ook een afbeelding bevatten en de alt-tekst van de afbeelding leeg laten.
+  2. Automatische audio-feedback toevoegen.
+
+
+  #### Muis en Toetsenbord 
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Wat gaat goed:
+  1. Focus state toont door omlijning waar de gebruiker zich op het scherm bevindt met voldoende contrast.
+  2. Er zijn veel opties op de homepage, maar bol.com heeft genoeg ruimte per item gekozen zodat de gebruiker niet snel misklikt.
+  
+  Problemen:
+  1. De navigatie opent niet als de gebruiker er met zijn tab-toets op staat en vervolgens op "enter" drukt.
+  2. Geen feedback als de gebruiker hovered over: klikbare afbeeldingen, social media buttons en pijltje naar rechts om meer producten in de caroussel te bekijken.
+  3. Geen feedback als de gebruiker op een knop klikt (active).
+  
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  1. -
+  2. Hover feedback toevoegen door bijvoorbeeld de kleur van het lettertype aan te passen, de gehele achtergrond van kleur te veranderen, vergroten van de tekst, tekst te omlijnen, etc.
+  3. Active state toevoegen zodat gebruikers kunnen zien waar ze geklikt hebben.
 
 </details>
 
