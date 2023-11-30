@@ -39,22 +39,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  (https://www.bol.com/nl/nl/)
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/bol1.jpg" width="375px" >
-  <img src="readme-images/bol2.jpg" width="375px" >
-  <img src="readme-images/bol3.jpg" width="375px" >
-  <img src="readme-images/bol4.jpg" width="375px" >
-  <img src="readme-images/bol5.jpg" width="375px" >
-  <img src="readme-images/bol6.jpg" width="375px" >
-  <img src="readme-images/bol6h.jpg" width="375px" >
+  <img src="readme-images/homescreen.jpg" width="375px" >
+  
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-   <img src="readme-images/bol7.jpg" width="375px" >
-  <img src="readme-images/bol8.jpg" width="375px" >
-  <img src="readme-images/bol9.jpg" width="375px" >
-  <img src="readme-images/bol10.jpg" width="375px" >
-  <img src="readme-images/bol11.jpg" width="375px" >
-  <img src="readme-images/bol12.jpg" width="375px" >
+   <img src="readme-images/detailpagina.jpg" width="375px" >
+
  
  
 </details>
